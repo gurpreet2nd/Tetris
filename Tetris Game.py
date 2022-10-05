@@ -397,3 +397,4 @@ pygame.display.set_caption('Tetris')
 
 
 
+main_menu()  # start game
